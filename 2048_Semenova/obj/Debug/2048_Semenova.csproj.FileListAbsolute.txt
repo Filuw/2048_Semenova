@@ -1,0 +1,11 @@
+C:\Users\Дарья\source\repos\2048_Semenova\2048_Semenova\bin\Debug\2048_Semenova.exe.config
+C:\Users\Дарья\source\repos\2048_Semenova\2048_Semenova\bin\Debug\2048_Semenova.exe
+C:\Users\Дарья\source\repos\2048_Semenova\2048_Semenova\bin\Debug\2048_Semenova.pdb
+C:\Users\Дарья\source\repos\2048_Semenova\2048_Semenova\obj\Debug\2048_Semenova.csproj.AssemblyReference.cache
+C:\Users\Дарья\source\repos\2048_Semenova\2048_Semenova\obj\Debug\2048_Semenova.csproj.SuggestedBindingRedirects.cache
+C:\Users\Дарья\source\repos\2048_Semenova\2048_Semenova\obj\Debug\_2048_Semenova.Form1.resources
+C:\Users\Дарья\source\repos\2048_Semenova\2048_Semenova\obj\Debug\_2048_Semenova.Properties.Resources.resources
+C:\Users\Дарья\source\repos\2048_Semenova\2048_Semenova\obj\Debug\2048_Semenova.csproj.GenerateResource.cache
+C:\Users\Дарья\source\repos\2048_Semenova\2048_Semenova\obj\Debug\2048_Semenova.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\source\repos\2048_Semenova\2048_Semenova\obj\Debug\2048_Semenova.exe
+C:\Users\Дарья\source\repos\2048_Semenova\2048_Semenova\obj\Debug\2048_Semenova.pdb
